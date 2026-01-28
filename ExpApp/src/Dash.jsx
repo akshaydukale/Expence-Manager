@@ -324,7 +324,7 @@ let debit = () => {
               
         <div>
             
-            <table class="table table">
+        <table className="table table">
   <thead>
     <tr>
       <th scope="col">TID</th>
